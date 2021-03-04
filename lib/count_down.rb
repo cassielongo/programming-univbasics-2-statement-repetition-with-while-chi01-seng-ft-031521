@@ -1,3 +1,3 @@
 magic_exit_number = 1
-
-while 
+count = 10
+while count 
