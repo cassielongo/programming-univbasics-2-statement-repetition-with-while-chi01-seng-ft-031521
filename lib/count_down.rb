@@ -1,1 +1,1 @@
-#magic_exit_number = 1  Write your code here
+magic_exit_number = 1
